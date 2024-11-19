@@ -1,2 +1,3 @@
 Nombre de los compañeros
-luis 
+Alex Diez Ros
+Diego Lorden Celeiro
