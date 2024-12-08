@@ -106,7 +106,8 @@ Y este sería el resltado final:
 
 2.1 Gráfico
 
-![image](https://github.com/user-attachments/assets/a91a3838-0d14-4c71-9140-349415f5726c)
+![image](https://github.com/user-attachments/assets/49c92384-6f0f-4b33-b3de-a0b571643606)
+
 
 2.2 Capturas 
 
