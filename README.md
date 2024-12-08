@@ -36,23 +36,67 @@ PASO 2
 
 Creamos una rama a partir de una tarea de igual nombre con el repositorio GO BEES, en este caso "Fix weather data summary bug 184"
 
+![Captura de pantalla 2024-12-08 230004](https://github.com/user-attachments/assets/32b7438e-620e-4877-8494-bddc5d609cd3)
+![Captura de pantalla 2024-12-08 230023](https://github.com/user-attachments/assets/eb9d061e-06dc-4e07-82c3-ae20f4188b4c)
+![Captura de pantalla 2024-12-08 230040](https://github.com/user-attachments/assets/14234453-b384-4809-b3ca-687cd52dac02)
+![Captura de pantalla 2024-12-08 230049](https://github.com/user-attachments/assets/9756fb56-9679-451a-a96c-f0274bf19bd0)
+
 PASO 3
 
 Entramos a la rama local de nuestro ordenador
 
+![Captura de pantalla 2024-12-08 230200](https://github.com/user-attachments/assets/796ceecd-4f4b-4545-b226-96f36e935b67)
+
+
 PASO 4
 
 Vamos a la carpeta GO BEESs y copiamos los archivos a la carpeta de la práctica
+carpeta go bees: 
+
+![Captura de pantalla 2024-12-08 230225](https://github.com/user-attachments/assets/ac5a99d0-e51c-46a7-b313-e35bc8ae5d8b)
+
+carpeta Practica:
+
+![Captura de pantalla 2024-12-08 230244](https://github.com/user-attachments/assets/d78c0ce0-0abf-4931-ba56-ee560cc33268)
 
 PASO 5
 
 Guardamos y subimos cambios ( View changes > Stage All Changes > Commit Changes to x Files > Fetch All > Pull (fas-forward if possible) > Push
 
+![Captura de pantalla 2024-12-08 230321](https://github.com/user-attachments/assets/e666f217-6dd5-4538-87a4-b55f5fb60e7d)
+
+![Captura de pantalla 2024-12-08 230330](https://github.com/user-attachments/assets/8cd325d6-e003-423b-a148-2ee72d027da3)
+
+![Captura de pantalla 2024-12-08 230430](https://github.com/user-attachments/assets/aa1da83c-acb9-4293-a669-05c7dd70a5bb)
+
+![Captura de pantalla 2024-12-08 230443](https://github.com/user-attachments/assets/4c059912-ed81-4ad0-91c4-9d896822795a)
+
+Así deberíamos ver el resultado antes de hacer la pull request:
+
+![Captura de pantalla 2024-12-08 230451](https://github.com/user-attachments/assets/d746622f-078d-4921-ab7f-bd746007fb0d)
+
+
 PASO 6
 
 Vamos a Github a PULL REQUESTS y vamos a ( Compare & pull request > Create pull request > Merge pull request > Confirm merge )
 
+![Captura de pantalla 2024-12-08 230519](https://github.com/user-attachments/assets/a37d4479-3873-4ae5-a128-291d9774edcd)
+
+![Captura de pantalla 2024-12-08 230534](https://github.com/user-attachments/assets/77915668-e36f-407a-8e3a-270e845540bf)
+
+![Captura de pantalla 2024-12-08 230547](https://github.com/user-attachments/assets/d41e6d26-3a19-435e-a840-d1466648e08c)
+
+![Captura de pantalla 2024-12-08 230552](https://github.com/user-attachments/assets/1fd9a508-109a-4b8d-a123-18f98a63a8a4)
+
+![Captura de pantalla 2024-12-08 230603](https://github.com/user-attachments/assets/7a428af6-1dd4-4eb9-96d4-ee273fdf9b61)
+
+
 PASO 7 
 
 Vamos a master ( Fetch > Pull > Push )
+
+Y este sería el resltado final: 
+
+![Captura de pantalla 2024-12-08 232012](https://github.com/user-attachments/assets/5f7ddb66-c32f-4114-946d-84bd17533e22)
+
 
