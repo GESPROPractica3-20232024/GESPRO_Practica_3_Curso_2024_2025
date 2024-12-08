@@ -51,6 +51,7 @@ Entramos a la rama local de nuestro ordenador
 PASO 4
 
 Vamos a la carpeta GO BEESs y copiamos los archivos a la carpeta de la práctica
+
 carpeta go bees: 
 
 ![Captura de pantalla 2024-12-08 230225](https://github.com/user-attachments/assets/ac5a99d0-e51c-46a7-b313-e35bc8ae5d8b)
