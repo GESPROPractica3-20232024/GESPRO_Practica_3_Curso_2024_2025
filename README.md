@@ -21,3 +21,35 @@ This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
+
+
+Àlex Díez Ros y Diego Lorden Celeiro
+
+PASO 1
+
+Vamos al commit paara poder subir cambios, teniendo MASTER al día y estar posicionados en MASTER
+
+PASO 2
+
+Creamos una rama a partir de una tarea de igual nombre con el repositorio GO BEES, en este caso "Fix weather data summary bug 184"
+
+PASO 3
+
+Entramos a la rama local de nuestro ordenador
+
+PASO 4
+
+Vamos a la carpeta GO BEESs y copiamos los archivos a la carpeta de la práctica
+
+PASO 5
+
+Guardamos y subimos cambios ( View changes > Stage All Changes > Commit Changes to x Files > Fetch All > Pull (fas-forward if possible) > Push
+
+PASO 6
+
+Vamos a Github a PULL REQUESTS y vamos a ( Compare & pull request > Create pull request > Merge pull request > Confirm merge )
+
+PASO 7 
+
+Vamos a master ( Fetch > Pull > Push )
+
