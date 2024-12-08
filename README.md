@@ -106,20 +106,47 @@ Y este sería el resltado final:
 
 2.1 Gráfico
 
+![image](https://github.com/user-attachments/assets/a91a3838-0d14-4c71-9140-349415f5726c)
+
 2.2 Capturas 
+
+
 
 2.2.1 Primer commit
 
+![image](https://github.com/user-attachments/assets/dd5a6501-0d0b-4066-88b0-4f7129c434a1)
+
 2.2.2 Último commit
 
+![image](https://github.com/user-attachments/assets/b6858924-4fb1-46f7-bc82-c205363d8dcc)
 
 
 3 - GITHUB
 
 3.1  Insights - Pulse 
 
+![image](https://github.com/user-attachments/assets/3a88c4fe-6ade-45c7-8002-56bec56ceaaa)
+
+![image](https://github.com/user-attachments/assets/0f648329-57d9-47f6-a2d2-9a1dd935fe32)
+
+
 3.2  Insights - Code frequency
 
+
+![image](https://github.com/user-attachments/assets/29e13e5e-17be-4777-8923-8baf69da216f)
+
+
 3.3  PRQs realizadas cerradas
+
+Aquí las abiertas que si lo hemos echo bien es 0:
+
+![image](https://github.com/user-attachments/assets/5cda9e4c-3723-41b1-814f-b52e1ecc0644)
+
+Y aquí las cerradas que si lo hemos echo bien son 8:  
+
+![image](https://github.com/user-attachments/assets/26aafebf-cfec-4eb9-88c5-a0da2fa1309f)
+
+
+
 
 
