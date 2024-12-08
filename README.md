@@ -29,6 +29,9 @@ PASO 1
 
 Vamos al commit paara poder subir cambios, teniendo MASTER al día y estar posicionados en MASTER
 
+![Captura de pantalla 2024-12-08 225902](https://github.com/user-attachments/assets/3b9cabb7-d218-483c-8594-876c9e0d815d)
+
+
 PASO 2
 
 Creamos una rama a partir de una tarea de igual nombre con el repositorio GO BEES, en este caso "Fix weather data summary bug 184"
