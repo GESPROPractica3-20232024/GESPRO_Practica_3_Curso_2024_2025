@@ -101,3 +101,25 @@ Y este sería el resltado final:
 ![Captura de pantalla 2024-12-08 232012](https://github.com/user-attachments/assets/5f7ddb66-c32f-4114-946d-84bd17533e22)
 
 
+
+2 - GIT KRAKEN
+
+2.1 Gráfico
+
+2.2 Capturas 
+
+2.2.1 Primer commit
+
+2.2.2 Último commit
+
+
+
+3 - GITHUB
+
+3.1  Insights - Pulse 
+
+3.2  Insights - Code frequency
+
+3.3  PRQs realizadas cerradas
+
+
